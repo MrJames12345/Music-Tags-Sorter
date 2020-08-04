@@ -1,0 +1,10 @@
+REQUIRED LIBRARIES:
+OutputBox (My repo: Output-Box)
+Jsoup (External: https://jsoup.org/download)
+Mp3agic (External: https://jar-download.com/artifacts/com.mpatric/mp3agic/0.9.0/source-code)
+YouTubePlaylistScraper (My repo: YouTube-Playlist-Scraper)
+YouTubeVideoScraper (My repo: YouTube-Video-Scraper)
+GoogleImagesScraper (My repo: Google-Images-Scraper)
+ImageDownloader (My repo: Image-Downloader)
+MusicTagger (My repo: Music-Tagger)
+Exceptions (My repo: Exceptions)
