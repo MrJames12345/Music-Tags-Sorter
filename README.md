@@ -1,4 +1,4 @@
-REQUIRED LIBRARIES:
+# REQUIRED LIBRARIES:
 OutputBox (My repo: Output-Box)
 Jsoup (External: https://jsoup.org/download)
 Mp3agic (External: https://jar-download.com/artifacts/com.mpatric/mp3agic/0.9.0/source-code)
